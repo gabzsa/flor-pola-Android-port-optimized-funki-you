@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="campaign_menu_UI_characters.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="FLOWEY GLICHT0000" x="0" y="0" width="400" height="400" frameX="-156" frameY="-46" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0001" x="0" y="0" width="400" height="400" frameX="-156" frameY="-46" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0002" x="0" y="0" width="400" height="400" frameX="-156" frameY="-46" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0003" x="0" y="0" width="400" height="400" frameX="-156" frameY="-46" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0004" x="0" y="0" width="400" height="400" frameX="-156" frameY="-46" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0005" x="0" y="0" width="400" height="400" frameX="-156" frameY="-46" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0006" x="400" y="0" width="400" height="400" frameX="-155" frameY="-45" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0007" x="0" y="400" width="468" height="385" frameX="-158" frameY="-61" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0008" x="468" y="400" width="522" height="360" frameX="-116" frameY="-24" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0009" x="0" y="785" width="632" height="384" frameX="-76" frameY="0" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0010" x="468" y="400" width="522" height="360" frameX="-116" frameY="-24" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0011" x="0" y="785" width="632" height="384" frameX="-76" frameY="0" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0012" x="468" y="400" width="522" height="360" frameX="-116" frameY="-24" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0013" x="0" y="785" width="632" height="384" frameX="-76" frameY="0" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0014" x="468" y="400" width="522" height="360" frameX="-116" frameY="-24" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0015" x="0" y="1169" width="878" height="415" frameX="0" frameY="-49" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0016" x="0" y="1169" width="878" height="415" frameX="0" frameY="-49" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0017" x="0" y="1584" width="400" height="400" frameX="-156" frameY="-46" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0018" x="0" y="1584" width="400" height="400" frameX="-156" frameY="-46" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0019" x="0" y="1584" width="400" height="400" frameX="-156" frameY="-46" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0020" x="0" y="1584" width="400" height="400" frameX="-156" frameY="-46" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0021" x="0" y="1584" width="400" height="400" frameX="-156" frameY="-46" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0022" x="0" y="1584" width="400" height="400" frameX="-156" frameY="-46" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0023" x="0" y="1584" width="400" height="400" frameX="-156" frameY="-46" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0024" x="0" y="1584" width="400" height="400" frameX="-156" frameY="-46" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0025" x="0" y="1584" width="400" height="400" frameX="-156" frameY="-46" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0026" x="0" y="1584" width="400" height="400" frameX="-156" frameY="-46" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0027" x="0" y="1584" width="400" height="400" frameX="-156" frameY="-46" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0028" x="0" y="1584" width="400" height="400" frameX="-156" frameY="-46" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0029" x="0" y="1584" width="400" height="400" frameX="-156" frameY="-46" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0030" x="0" y="1584" width="400" height="400" frameX="-156" frameY="-46" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0031" x="0" y="1584" width="400" height="400" frameX="-156" frameY="-46" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0032" x="0" y="1584" width="400" height="400" frameX="-156" frameY="-46" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0033" x="0" y="1584" width="400" height="400" frameX="-156" frameY="-46" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0034" x="0" y="1584" width="400" height="400" frameX="-156" frameY="-46" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0035" x="0" y="1584" width="400" height="400" frameX="-156" frameY="-46" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0036" x="0" y="1584" width="400" height="400" frameX="-156" frameY="-46" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0037" x="0" y="1584" width="400" height="400" frameX="-156" frameY="-46" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0038" x="0" y="1584" width="400" height="400" frameX="-156" frameY="-46" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0039" x="0" y="1584" width="400" height="400" frameX="-156" frameY="-46" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0040" x="0" y="1584" width="400" height="400" frameX="-156" frameY="-46" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0041" x="0" y="1584" width="400" height="400" frameX="-156" frameY="-46" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0042" x="0" y="1584" width="400" height="400" frameX="-156" frameY="-46" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0043" x="0" y="1584" width="400" height="400" frameX="-156" frameY="-46" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0044" x="0" y="1584" width="400" height="400" frameX="-156" frameY="-46" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0045" x="0" y="1584" width="400" height="400" frameX="-156" frameY="-46" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0046" x="0" y="1584" width="400" height="400" frameX="-156" frameY="-46" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0047" x="0" y="1584" width="400" height="400" frameX="-156" frameY="-46" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0048" x="0" y="1584" width="400" height="400" frameX="-156" frameY="-46" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0049" x="0" y="1584" width="400" height="400" frameX="-156" frameY="-46" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0050" x="0" y="1584" width="400" height="400" frameX="-156" frameY="-46" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0051" x="0" y="1584" width="400" height="400" frameX="-156" frameY="-46" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0052" x="0" y="1584" width="400" height="400" frameX="-156" frameY="-46" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0053" x="0" y="1584" width="400" height="400" frameX="-156" frameY="-46" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0054" x="0" y="1584" width="400" height="400" frameX="-156" frameY="-46" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0055" x="0" y="1584" width="400" height="400" frameX="-156" frameY="-46" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0056" x="0" y="1584" width="400" height="400" frameX="-156" frameY="-46" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0057" x="0" y="1584" width="400" height="400" frameX="-156" frameY="-46" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0058" x="0" y="1584" width="400" height="400" frameX="-156" frameY="-46" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0059" x="0" y="1584" width="400" height="400" frameX="-156" frameY="-46" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0060" x="0" y="1584" width="400" height="400" frameX="-156" frameY="-46" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0061" x="0" y="1584" width="400" height="400" frameX="-156" frameY="-46" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0062" x="0" y="1584" width="400" height="400" frameX="-156" frameY="-46" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0063" x="0" y="1584" width="400" height="400" frameX="-156" frameY="-46" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0064" x="0" y="1584" width="400" height="400" frameX="-156" frameY="-46" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0065" x="0" y="1584" width="400" height="400" frameX="-156" frameY="-46" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0066" x="0" y="1584" width="400" height="400" frameX="-156" frameY="-46" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0067" x="0" y="1584" width="400" height="400" frameX="-156" frameY="-46" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0068" x="0" y="1584" width="400" height="400" frameX="-156" frameY="-46" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0069" x="0" y="1584" width="400" height="400" frameX="-156" frameY="-46" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="FLOWEY GLICHT0070" x="0" y="1584" width="400" height="400" frameX="-156" frameY="-46" frameWidth="878" frameHeight="464"/>
+	<SubTexture name="normal0000" x="0" y="1584" width="400" height="400" frameX="0" frameY="0" frameWidth="878" frameHeight="464"/>
+</TextureAtlas>
