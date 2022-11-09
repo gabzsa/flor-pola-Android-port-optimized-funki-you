@@ -1,0 +1,10 @@
+function onCreate()
+  makeLuaSprite('bg','BG_uwa',-600,-600)
+  makeAnimatedLuaSprite('torch1','fire',0,0)
+  addAnimationByPrefix('torch1','idle','antorcha0',24,true)
+  makeAnimatedLuaSprite('torch2','fire',1300,0)
+  addAnimationByPrefix('torch2','idle','antorcha 2',24,true)
+  addLuaSprite('bg',false)
+  addLuaSprite('torch1',false)
+  addLuaSprite('torch2',false)
+end
