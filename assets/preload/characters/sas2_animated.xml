@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sas2_animated.png">
+<SubTexture name="suelo0000" x="0" y="0" width="158" height="429" frameX="-1329" frameY="-1274" frameWidth="2816" frameHeight="1813" />
+<SubTexture name="suelo0001" x="158" y="0" width="1260" height="429" frameX="-785" frameY="-1274" frameWidth="2816" frameHeight="1813" />
+<SubTexture name="suelo0002" x="1418" y="0" width="2417" height="429" frameX="-213" frameY="-1274" frameWidth="2816" frameHeight="1813" />
+<SubTexture name="suelo0003" x="1418" y="0" width="2417" height="429" frameX="0" frameY="0" frameWidth="2816" frameHeight="1813" />
+<SubTexture name="suelo0004" x="0" y="429" width="2253" height="429" frameX="-294" frameY="-1274" frameWidth="2816" frameHeight="1813" />
+<SubTexture name="suelo0005" x="0" y="429" width="2253" height="429" frameX="0" frameY="0" frameWidth="2816" frameHeight="1813" />
+<SubTexture name="suelo0006" x="0" y="429" width="2253" height="429" frameX="0" frameY="0" frameWidth="2816" frameHeight="1813" />
+<SubTexture name="suelo0007" x="0" y="429" width="2253" height="429" frameX="0" frameY="0" frameWidth="2816" frameHeight="1813" />
+<SubTexture name="suelo0008" x="0" y="429" width="2253" height="429" frameX="0" frameY="0" frameWidth="2816" frameHeight="1813" />
+<SubTexture name="suelo0009" x="0" y="429" width="2253" height="429" frameX="0" frameY="0" frameWidth="2816" frameHeight="1813" />
+<SubTexture name="suelo0010" x="0" y="429" width="2253" height="429" frameX="0" frameY="0" frameWidth="2816" frameHeight="1813" />
+<SubTexture name="suelo0011" x="0" y="429" width="2253" height="429" frameX="0" frameY="0" frameWidth="2816" frameHeight="1813" />
+<SubTexture name="suelo0012" x="0" y="429" width="2253" height="429" frameX="0" frameY="0" frameWidth="2816" frameHeight="1813" />
+<SubTexture name="suelo0013" x="0" y="429" width="2253" height="429" frameX="0" frameY="0" frameWidth="2816" frameHeight="1813" />
+<SubTexture name="suelo0014" x="0" y="429" width="2253" height="429" frameX="0" frameY="0" frameWidth="2816" frameHeight="1813" />
+<SubTexture name="suelo0015" x="0" y="429" width="2253" height="429" frameX="0" frameY="0" frameWidth="2816" frameHeight="1813" />
+<SubTexture name="suelo0016" x="0" y="429" width="2253" height="429" frameX="0" frameY="0" frameWidth="2816" frameHeight="1813" />
+</TextureAtlas>
