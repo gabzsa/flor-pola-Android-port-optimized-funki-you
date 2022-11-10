@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Temmie idle"
+		},
+		{
+			"offsets": [
+				8,
+				-2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Temmie Left"
+		},
+		{
+			"offsets": [
+				-1,
+				-61
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Temmie down"
+		},
+		{
+			"offsets": [
+				18,
+				12
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Temmie Up"
+		},
+		{
+			"offsets": [
+				-37,
+				-2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Temmie Rigth"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Temmie",
+	"position": [
+		0,
+		150
+	],
+	"healthicon": "temmie",
+	"flip_x": false,
+	"healthbar_colors": [
+		83,
+		161,
+		196
+	],
+	"camera_position": [
+		0,
+		60
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

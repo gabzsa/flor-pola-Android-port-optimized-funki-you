@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Napstablock idle"
+		},
+		{
+			"offsets": [
+				141,
+				-60
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Napstablock left"
+		},
+		{
+			"offsets": [
+				-40,
+				-73
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Napstablock down"
+		},
+		{
+			"offsets": [
+				-36,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Napstablock up"
+		},
+		{
+			"offsets": [
+				-50,
+				-63
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Napstablock rigtch"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/uwa",
+	"position": [
+		0,
+		80
+	],
+	"healthicon": "napstablook",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		80,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Flowey idle"
+		},
+		{
+			"offsets": [
+				64,
+				-22
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Flowey down"
+		},
+		{
+			"offsets": [
+				46,
+				-12
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Flowey left"
+		},
+		{
+			"offsets": [
+				11,
+				13
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Flowey up"
+		},
+		{
+			"offsets": [
+				-24,
+				4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Flowey rigth"
+		},
+		{
+			"offsets": [
+				78,
+				25
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "transform",
+			"loop": false,
+			"name": "Flowey t"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/flowey",
+	"position": [
+		0,
+		360
+	],
+	"healthicon": "flowey",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		216,
+		91
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
