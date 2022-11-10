@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sas3_animated.png">
+<SubTexture name="fade0000" x="2421" y="504" width="170" height="503" frameX="-1324" frameY="-1096" frameWidth="2817" frameHeight="1813" />
+<SubTexture name="fade0001" x="0" y="0" width="1353" height="504" frameX="-746" frameY="-1095" frameWidth="2817" frameHeight="1813" />
+<SubTexture name="fade0002" x="1353" y="0" width="2597" height="504" frameX="-138" frameY="-1095" frameWidth="2817" frameHeight="1813" />
+<SubTexture name="fade0003" x="1353" y="0" width="2597" height="504" frameX="0" frameY="0" frameWidth="2817" frameHeight="1813" />
+<SubTexture name="fade0004" x="0" y="504" width="2421" height="504" frameX="-223" frameY="-1095" frameWidth="2817" frameHeight="1813" />
+<SubTexture name="fade0005" x="0" y="504" width="2421" height="504" frameX="0" frameY="0" frameWidth="2817" frameHeight="1813" />
+<SubTexture name="fade0006" x="0" y="504" width="2421" height="504" frameX="0" frameY="0" frameWidth="2817" frameHeight="1813" />
+<SubTexture name="fade0007" x="0" y="504" width="2421" height="504" frameX="0" frameY="0" frameWidth="2817" frameHeight="1813" />
+<SubTexture name="fade0008" x="0" y="504" width="2421" height="504" frameX="0" frameY="0" frameWidth="2817" frameHeight="1813" />
+<SubTexture name="fade0009" x="0" y="504" width="2421" height="504" frameX="0" frameY="0" frameWidth="2817" frameHeight="1813" />
+<SubTexture name="fade0010" x="0" y="504" width="2421" height="504" frameX="0" frameY="0" frameWidth="2817" frameHeight="1813" />
+<SubTexture name="fade0011" x="0" y="504" width="2421" height="504" frameX="0" frameY="0" frameWidth="2817" frameHeight="1813" />
+<SubTexture name="fade0012" x="0" y="504" width="2421" height="504" frameX="0" frameY="0" frameWidth="2817" frameHeight="1813" />
+<SubTexture name="fade0013" x="0" y="504" width="2421" height="504" frameX="0" frameY="0" frameWidth="2817" frameHeight="1813" />
+<SubTexture name="fade0014" x="0" y="504" width="2421" height="504" frameX="0" frameY="0" frameWidth="2817" frameHeight="1813" />
+<SubTexture name="fade0015" x="0" y="504" width="2421" height="504" frameX="0" frameY="0" frameWidth="2817" frameHeight="1813" />
+<SubTexture name="fade0016" x="0" y="504" width="2421" height="504" frameX="0" frameY="0" frameWidth="2817" frameHeight="1813" />
+<SubTexture name="fade0017" x="0" y="504" width="2421" height="504" frameX="0" frameY="0" frameWidth="2817" frameHeight="1813" />
+<SubTexture name="fade0018" x="0" y="504" width="2421" height="504" frameX="0" frameY="0" frameWidth="2817" frameHeight="1813" />
+<SubTexture name="fade0019" x="0" y="504" width="2421" height="504" frameX="0" frameY="0" frameWidth="2817" frameHeight="1813" />
+<SubTexture name="fade0020" x="0" y="504" width="2421" height="504" frameX="0" frameY="0" frameWidth="2817" frameHeight="1813" />
+<SubTexture name="fade0021" x="0" y="504" width="2421" height="504" frameX="0" frameY="0" frameWidth="2817" frameHeight="1813" />
+<SubTexture name="fade0022" x="0" y="504" width="2421" height="504" frameX="0" frameY="0" frameWidth="2817" frameHeight="1813" />
+<SubTexture name="fade0023" x="0" y="504" width="2421" height="504" frameX="0" frameY="0" frameWidth="2817" frameHeight="1813" />
+</TextureAtlas>
